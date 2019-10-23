@@ -1,2 +1,2 @@
 # srs
-An SRS template
+An SRS LaTeX template
